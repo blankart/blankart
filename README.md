@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as a full-time **Software Developer**
 
-- 🌱 I’m currently learning **DevOps** and **Microservices**
+- 🌱 I’m currently learning **Development Operations** and **Microservices**
 
 - 📫 How to reach me: **ncmendoza1@alum.up.edu.ph**
 
