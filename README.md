@@ -55,9 +55,46 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 </p>
 
-<p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=blankart&theme=react&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blankart&theme=react&layout=compact" />
+<br>
+
+<p align="center">
+<br>
+<table border="0" align="center">
+<tr border="0">
+<td width="50%" align="center">
+
+<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=blankart&theme=cobalt&show_icons=true&count_private=true" />
+<br></br>
+<img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=blankart&theme=dark&hide_border=true" />
+</td>
+
+<td width="50%" align="center">
+<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=blankart&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
+</td>
+</tr>
+</table>
+<br>
 </p>
 
+<br>
+<p align="center">
+<div align=center>
+<a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+<img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=blankart&theme=radical&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+</a>
+</div>
+</p>
+
+<br>
+<hr>
+
+<br>
+<p align="centre">
+
+</p>
+
+<br>
+<hr>
+<br>
+<p align="center">
 ------
