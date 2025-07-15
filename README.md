@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋,  I'm Nico Mendoza <img src="https://emoji.gg/assets/emoji/2022_vs_code_rainbow.gif" width="30px" height="30px" alt="vs_code_rainbow"></h1>
+<h1 align="center">Hi 👋,  I'm Nico Mendoza <a href="https://emoji.gg/emoji/1878-blobcat-code"><img src="https://cdn3.emoji.gg/emojis/1878-blobcat-code.gif" width="64px" height="64px" alt="blobcat_code"></a>
 <h3 align="center">A passionate full stack developer from the Philippines</h3>
 
 - 🔭 I’m currently working as a full-time **Full Stack Developer**
